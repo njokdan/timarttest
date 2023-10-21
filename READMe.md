@@ -1,6 +1,8 @@
 # Timarttest  
 This is a take home test (nodejs,express,graphql,mysql)  
 
+Swagger Documentation: http://localhost:3000/api-docs/
+
 Here are the instructions for running the Node.js application that exposes GraphQL endpoints for creating a new user, retrieving user information by ID, creating a new order for a user, and retrieving a user's orders, using Express.js and GraphQL for routing and Sequelize for MySQL database interactions, and implementing proper input validation and error handling in the API endpoints:  
 
 
